@@ -65,7 +65,7 @@
                 <configuration>
                     <targetJdk>1.6</targetJdk>
                     <rulesets>
-                    <ruleset>src/main/resources/qa/profileCodingRules.xml</ruleset>
+                        <ruleset>src/main/resources/qa/profileCodingRules.xml</ruleset>
                     </rulesets>
                 </configuration>
             </plugin>
